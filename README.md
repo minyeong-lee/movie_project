@@ -2,4 +2,4 @@
 
 ![sequence_diagram_minyeong](https://github.com/user-attachments/assets/9546e6c0-be90-4acc-90c7-4e5c1507059f)
 
-![end](https://github.com/user-attachments/assets/c9178fe4-d5dd-4a8f-b237-6a5bc7d8e171)
+![flow](https://github.com/user-attachments/assets/f7320100-2432-4126-b74e-0b158bb3a36b)
